@@ -1,3 +1,3 @@
-module github.com/jstncbllr/test-lib
+module github.com/jstncbllr/test_lib
 
 go 1.13
